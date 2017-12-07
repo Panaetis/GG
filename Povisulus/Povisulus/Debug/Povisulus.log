@@ -1,0 +1,14 @@
+﻿Сборка начата 08.12.2017 1:40:29.
+     1>Проект "D:\C++\NextGen\GeneratonNerxt\Povisulus\Povisulus\Povisulus.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Povisulus.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Povisulus.cpp
+         Povisulus.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++\NextGen\GeneratonNerxt\Povisulus\Debug\Povisulus.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\C++\NextGen\GeneratonNerxt\Povisulus\Debug\Povisulus.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++\NextGen\GeneratonNerxt\Povisulus\Debug\Povisulus.lib" /MACHINE:X86 Debug\Povisulus.obj
+         Debug\stdafx.obj
+         Povisulus.vcxproj -> D:\C++\NextGen\GeneratonNerxt\Povisulus\Debug\Povisulus.exe
+     1>Сборка проекта "D:\C++\NextGen\GeneratonNerxt\Povisulus\Povisulus\Povisulus.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.02
